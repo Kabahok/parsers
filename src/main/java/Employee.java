@@ -1,5 +1,3 @@
-package csvJsonParser;
-
 public class Employee {
     public long id;
     public String firstName;
